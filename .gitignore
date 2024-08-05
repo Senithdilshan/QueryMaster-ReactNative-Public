@@ -1,0 +1,6 @@
+node_modules
+.expo
+.vscode
+package-lock.json
+env.js
+android
